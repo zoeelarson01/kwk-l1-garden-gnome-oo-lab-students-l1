@@ -1,4 +1,3 @@
-
 ###Meet the O.O.G.G.s
 <img src="https://after-school-assets.s3.amazonaws.com/gnomies.jpg" width="300px" align="right" hspace="5"> The O.O.G.Gs are the *Object Oriented Garden Gnomes*. You don't want to mess with them, because they're the meanest, toughest, gnomiest gnomes in town.
 
@@ -26,4 +25,4 @@ We're going to build a Garden Gnome class so that we can make individual instanc
 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-garden-gnome-oo-lab' title='Meet the O.O.G.G.s'>Meet the O.O.G.G.s</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Meet the O.O.G.G.s</p>
