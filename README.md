@@ -1,9 +1,9 @@
-###Meet the O.O.G.G.s
+### Meet the O.O.G.G.s
 <img src="https://after-school-assets.s3.amazonaws.com/gnomies.jpg" width="300px" align="right" hspace="5"> The O.O.G.Gs are the *Object Oriented Garden Gnomes*. You don't want to mess with them, because they're the meanest, toughest, gnomiest gnomes in town.
 
 We're going to build a Garden Gnome class so that we can make individual instances of Garden Gnomes that can terrorize front lawns around the neighborhood. Open the file `garden_gnome.rb` and follow these instructions. Run `learn` after completing each step of the instructions to make sure you're on the right track. Try to get each test to pass!
 
-###Instructions
+### Instructions
 1. Create a class called `GardenGnome`.
 2. Garden gnomes have names. Add a reader and a writer method for name.
 3. Garden gnomes also have ages (They can live to 4000 years, in fact). Add a reader and a writer method for age.
