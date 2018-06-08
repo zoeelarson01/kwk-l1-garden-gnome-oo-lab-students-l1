@@ -3,12 +3,12 @@ class GardenGnome
   attr_reader :name, :ages, :gluten_allergy, :personality, :hat_color
   attr_writer :name, :ages, :gluten_allergy, :hat_color
 
-  def initialize(hat_color)
+  def initialize(color)
     @personality = evil
     @hat_color = hat_color
   end
   def hat_color(color)
-    @hat_color = (hat_color)
+    @hat_color = (color)
   end
   def gnaw
     return "Gnawing on a tree!!!"
