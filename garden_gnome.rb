@@ -20,3 +20,5 @@ class GardenGnome
     return "Hello humans, my name is #{name}, I am #{ages}, and you'll rue the day you crossed me!"
   end
 end
+
+GardenGnome.new
