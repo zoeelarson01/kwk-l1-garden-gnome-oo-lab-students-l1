@@ -7,16 +7,18 @@ class GardenGnome
     @personality = evil
     @hat_color = hat_color
   end
-  def hat_color(hat_color)
-    @hat_color = (hat_color)
-  end
+
   def gnaw
     return "Gnawing on a tree!!!"
   end
+  
   def shout
     return "GNARLY!!!"
   end
+  
   def introduce_self
     return "Hello humans, my name is #{name}, I am #{ages}, and you'll rue the day you crossed me!"
   end
 end
+
+test_gnome = GardenGnome.new("blue")
